@@ -5,15 +5,18 @@ Fitur Utama
 Penilaian Kelayakan Kredit: Sistem menggunakan aturan berbasis poin untuk menilai kelayakan kredit berdasarkan parameter-parameter yang telah diatur.
 Keputusan Otomatis: Menghitung skor kelayakan kredit secara otomatis dan memberikan hasil apakah kredit diterima atau ditolak.
 Data Terstruktur: Semua data calon debitur disimpan dalam basis data MySQL.
+
 Teknologi yang Digunakan
 PHP: Untuk pemrosesan data dan logika aplikasi.
 HTML & CSS: Untuk antarmuka pengguna.
 MySQL: Untuk penyimpanan data.
 XAMPP: Untuk server lokal yang menjalankan Apache dan MySQL.
+
 Persyaratan Sistem
 XAMPP (untuk server PHP dan MySQL)
 Browser Web (Chrome, Firefox, dll.)
 Git (untuk meng-clone repository)
+
 Langkah-langkah Menjalankan Proyek di Lokal
 1. Clone Repository
 Pertama, clone repository dari GitHub ke dalam direktori lokal Anda.
