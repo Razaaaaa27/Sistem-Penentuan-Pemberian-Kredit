@@ -28,7 +28,7 @@
 Pertama, clone repository dari GitHub ke dalam direktori lokal Anda.
 
 ```bash
-git clone https://github.com/khalidalghifarii/sistem-penentuan-pemberian-kredit.git
+https://github.com/Razaaaaa27/sistem-penentuan-pemberian-kredit.git
 ```
 
 ## 2. Pindahkan ke Direktori htdocs
@@ -53,7 +53,7 @@ MySQL: Untuk mengelola basis data yang digunakan dalam proyek ini.
 Setelah XAMPP aktif, akses aplikasi melalui browser dengan mengunjungi:
 
 ```bash 
-http://localhost/KrediTrust
+http://kredi-trust.kesug.com/?i=1
 ```
 
 ## 6. Penggunaan Aplikasi
